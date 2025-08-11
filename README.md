@@ -1,5 +1,3 @@
-The Ultimate Open-Source AI Finance Manager
-Formerly Known as WealthSync – Now Supercharged!
 
 # 💸 FinanceFlow  
 ### *The Ultimate Open-Source AI Finance Manager*  
